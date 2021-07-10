@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to my profile!</h1>
 <br>
 
-A self taught programmer that loves low level stuff and for some reason are trying to learn web development.
+I am a self taught programmer that loves low level stuff and for some reason are trying to learn web development.
 
 
 **Talking about Personal Stuffs:**
