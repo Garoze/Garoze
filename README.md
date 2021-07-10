@@ -16,7 +16,7 @@ I am a self taught programmer that loves low level stuff and for some reason are
 - Old fun games;
 - Emulators and low stuff in general;
 
-**Languages:**<br>
+**Languages and Tools:**<br>
 * `Main:`<br><br>
     ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
     ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
