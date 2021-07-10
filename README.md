@@ -36,7 +36,7 @@ I am a self taught programmer that loves low level stuff and for some reason are
 <details>
   <summary>Github Stats</summary>
 <div>
-  <a href="https://github.com/Matan18">
+  <a href="https://github.com/Garoze">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Garoze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Garoze&layout=compact&langs_count=8&theme=tokyonight"/>
 <div>
