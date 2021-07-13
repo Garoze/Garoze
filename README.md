@@ -13,7 +13,7 @@ I am a self taught programmer that loves low level stuff and for some reason are
 - Linux;
 - Free and Open Source projects;
 - Blockchain and Bitcoin;
-- Old fun games;
+- Old games;
 - Emulators and low stuff in general;
 
 **Languages and Tools:**<br>
