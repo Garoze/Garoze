@@ -5,7 +5,7 @@ I am a self taught programmer that loves low level stuff and for some reason are
 
 
 **Talking about Personal Stuffs:**
-- I'm currently working on something really cool;
+- I'm currently working on a Fantasy Console in C++, you can check it out [here](https://github.com/Garoze/Fantasy-console);
 - I'm currently learning **React** and **Front-end development** in general;
 - Ask me about anything, if i don't know the answer we can search together;
 
