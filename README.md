@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, Welcome to my profile!</h1>
 <br>
 
-I am a self taught programmer that loves low level stuff and for some reason are trying to learn web development.
-
+I am a self-taught programmer with a passion for low-level programming. Recently, I’ve also been exploring web development, as well as language creation and compilers.
 
 **Talking about Personal Stuffs:**
-- I'm currently working on [Lunasm](https://github.com/Garoze/Lunasm) an assembly language for my custom CPU architecture.
-- Ask me about anything, if i don't know the answer we can search together;
+- I’m currently developing [Lunasm](https://github.com/Garoze/Lunasm), an assembler for my custom assembly language and CPU architecture.
+- Ask me about anything, if i don't know the answer we can search together.
 
 **Hobbies and Interests:**
 - Linux;
 - Free and Open Source projects;
 - Old games;
 - Emulators and low stuff in general;
+- Blockchain and Bitcoin;
 
 **Languages and Tools:**<br>
 * `Main:`<br><br>
